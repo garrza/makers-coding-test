@@ -3,7 +3,7 @@ import streamlit_scrollable_textbox as stx
 import openai
 
 # Set OpenAI API key
-openai.api_key = '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'
+openai.api_key = 'sk-<YOUR_API_KEY>'
 
 
 st.set_page_config(page_title='Personal Assistant', page_icon='👩‍💻', layout="centered")
